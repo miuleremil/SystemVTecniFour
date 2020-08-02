@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">System.VTecniFour</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Bienvenido al System VargasTecniFour</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="hint_documento">Documento</string>
+    <string name="hint_nombre">Cliente</string>
+    <string name="hint_telefono">Teléfono</string>
+    <string name="hint_marca">Marca</string>
+    <string name="hint_modelo">Modelo</string>
+    <string name="hint_imei1">Imei 1</string>
+    <string name="hint_imei2">Imei 2</string>
+    <string name="hint_observacion">Observacion</string>
+
+    <string name="ip">http://192.168.1.4</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
